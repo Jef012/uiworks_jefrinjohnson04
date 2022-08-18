@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-hdpi_top_up.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-hdpi\\top_up.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-hdpi_middlebutton1.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-hdpi\\middlebutton1.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-anydpi_ic_action_name.xml.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-anydpi\\ic_action_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-hdpi_ic_withdraw_logo.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-hdpi\\ic_withdraw_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_withdraw_btn.xml.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\withdraw_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-xhdpi_top_up.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-xhdpi\\top_up.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-v24_google_logo.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-v24\\google_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-xxhdpi_top_up.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-xxhdpi\\top_up.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-xxxhdpi_top_up.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-xxxhdpi\\top_up.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_gradient_list.xml.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\gradient_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_background_2.xml.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\background_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-mdpi_top_up.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-mdpi\\top_up.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-v24_microsoft_logo.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-v24\\microsoft_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-v24_twitter_logo.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-v24\\twitter_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-v24_top_up_logo.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-v24\\top_up_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-v24_amazon_logo.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-v24\\amazon_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-xhdpi_ic_withdraw_logo.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-xhdpi\\ic_withdraw_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_background_1.xml.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\background_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-v24_iphone_logo.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-v24\\iphone_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-v24_meta_logo.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-v24\\meta_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\layout_recycler_row.xml.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\layout\\recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-xxxhdpi_ic_withdraw_logo.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-xxxhdpi\\ic_withdraw_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-v24_whatsapp_logo.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-v24\\whatsapp_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-mdpi_ic_withdraw_logo.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-mdpi\\ic_withdraw_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_middle_button_.xml.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\middle_button_.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-v24_withdraw_logo.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-v24\\withdraw_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_ic_top_up_logo.xml.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\ic_top_up_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_ic_hide_show.xml.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\ic_hide_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-hdpi_middle_button.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-hdpi\\middle_button.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-v24_facebook_logo.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-v24\\facebook_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_logopit_1660375558913.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\logopit_1660375558913.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-xxhdpi_ic_withdraw_logo.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-xxhdpi\\ic_withdraw_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-hdpi_middlebutton.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-hdpi\\middlebutton.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_avatar.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_notification_bell.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\notification_bell.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-v24_apple_logo.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-v24\\apple_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_top_up_btn.xml.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\top_up_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-merged_res-29:\\drawable_background_3.xml.flat",
+        "source": "C:\\Users\\jeff\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-31:\\drawable\\background_3.xml"
+    }
+]
